@@ -1,1 +1,8 @@
-##Project: Build (static) 3D application based on HTML5 and WebGL
+Project: Build (static) 3D application based on HTML5 and WebGL
+
+Application allows to generate text images with many different fonts, sizes, backgrounds and under different viewing angles.
+
+Step to demo:
+1. Install nodejs
+2. Install 'parcel' to link HTML5 and JS
+3. Run 'npx parcel index.html'
